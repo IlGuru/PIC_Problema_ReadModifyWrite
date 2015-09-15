@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="IOBus.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         id="path3836"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.89896193"
+     inkscape:cx="689.83559"
+     inkscape:cy="334.40613"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="opacity:0.8;fill:none;stroke:#000000;stroke-width:2.01805544;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4467"
+       width="40.737633"
+       height="39.988071"
+       x="232.09027"
+       y="871.96387"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 232.33124,892.20483 150,892.36218"
+       id="path4469"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 272.33124,892.20483 130,0"
+       id="path4471"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 342.33124,932.20483 0,-40 0,-20 -20,-10 40,-20 -40,-20 40,-20 -20,-10 0,-40 20,0"
+       id="path4473"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 342.33124,752.20483 -20,0"
+       id="path4475"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 312.33124,932.20483 60,0"
+       id="path4477"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 312.33124,952.20483 60,0"
+       id="path4479"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 342.33124,952.20483 0,40"
+       id="path4481"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 322.33124,992.20483 40,0"
+       id="path4483"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.8;fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4485"
+       sodipodi:cx="780"
+       sodipodi:cy="204.09448"
+       sodipodi:rx="10"
+       sodipodi:ry="10"
+       d="m 790,204.09448 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       transform="translate(-367.66876,688.11035)"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="318.65839"
+       y="747.94806"
+       id="text4489"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002"><tspan
+         sodipodi:role="line"
+         id="tspan4491"
+         x="318.65839"
+         y="747.94806">V<tspan
+   style="font-size:16px"
+   id="tspan3112">DD</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4493"
+       y="1015.9481"
+       x="318.65839"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002"><tspan
+         y="1015.9481"
+         x="318.65839"
+         id="tspan4495"
+         sodipodi:role="line">V<tspan
+   style="font-size:16px"
+   id="tspan3114">SS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="432.13251"
+       y="902.71417"
+       id="text4497"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002"><tspan
+         sodipodi:role="line"
+         id="tspan4499"
+         x="432.13251"
+         y="902.71417">I/O Bus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="216.48444"
+       y="867.20276"
+       id="text4501"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002"><tspan
+         sodipodi:role="line"
+         id="tspan4503"
+         x="216.48444"
+         y="867.20276">I/O Pin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="380"
+       y="808.36218"
+       id="text4505"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002"><tspan
+         sodipodi:role="line"
+         id="tspan4507"
+         x="380"
+         y="808.36218">Rx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="377.54034"
+       y="952.00604"
+       id="text4509"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002"><tspan
+         sodipodi:role="line"
+         id="tspan4511"
+         x="377.54034"
+         y="952.00604">Cx</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 232.33124,912.20483 40,-40"
+       id="path4513"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 232.33124,872.20483 40,40"
+       id="path4515"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <g
+       id="g4545"
+       transform="translate(88,0)"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2987"
+         d="m 48.81958,671.5549 0,-270"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2989"
+         d="m 28.81958,660.9299 450,0"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2991"
+         d="m 27.740777,532.67453 450.000003,0"
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.5, 2.5;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2993"
+         d="m 25.58317,471.22067 450,0"
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.5, 2.5;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2995"
+         d="m 28.81958,430.9299 450,0"
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.5, 2.5;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997"
+         d="m 110.02041,413.04999 0,259.99999"
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.5, 2.5;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3001"
+         d="m 48.81958,660.9299 c 22.11747,-159.18443 171.82665,-229.05468 420,-230"
+         style="fill:none;stroke:#008bff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3771"
+         y="430.71045"
+         x="-27.640047"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="430.71045"
+           x="-27.640047"
+           id="tspan3773"
+           sodipodi:role="line">VDD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="-27.640047"
+         y="470.71045"
+         id="text3775"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3777"
+           x="-27.640047"
+           y="470.71045">VIH</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3779"
+         y="530.71045"
+         x="-27.640047"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="530.71045"
+           x="-27.640047"
+           id="tspan3781"
+           sodipodi:role="line">VIL</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997-1"
+         d="m 208.3531,413.64888 0,259.99999"
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.5, 2.5;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3801"
+         y="692.36218"
+         x="98.000008"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="692.36218"
+           x="98.000008"
+           id="tspan3803"
+           sodipodi:role="line">t<tspan
+   id="tspan3813"
+   style="font-size:16px">1</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="200"
+         y="692.36218"
+         id="text3805"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3807"
+           x="200"
+           y="692.36218">t<tspan
+   id="tspan3815"
+   style="font-size:16px">2</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3809"
+         y="692.36218"
+         x="456"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="692.36218"
+           x="456"
+           id="tspan3811"
+           sodipodi:role="line">t</tspan></text>
+      <text
+         transform="translate(0,308.2677)"
+         sodipodi:linespacing="125%"
+         id="text4517"
+         y="153.65141"
+         x="367.83438"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008bff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         xml:space="preserve"><tspan
+           y="153.65141"
+           x="367.83438"
+           id="tspan4519"
+           sodipodi:role="line">V<tspan
+   id="tspan4521"
+   style="font-size:16px;font-weight:bold;fill:#008bff;fill-opacity:1;-inkscape-font-specification:Arial Bold">I/O Bus</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160,574.09448 0,10 0,10"
+       id="path3062"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 165,594.09448 -10,0 5,10 z"
+       id="path3064"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 155,604.09448 10,0"
+       id="path3066"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160,604.09448 0,10"
+       id="path3068"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 155,614.09448 10,0"
+       id="path3070"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3072"
+       d="m 164.80335,871.68551 -10,0 5,10 z"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3074"
+       d="m 154.80335,882.27545 10,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3076"
+       d="m 160.19664,861.82433 0,10"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3078"
+       d="m 155,862.18871 10,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="151.875"
+       y="931.52362"
+       id="text3080"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002"><tspan
+         sodipodi:role="line"
+         id="tspan3082"
+         x="151.875"
+         y="931.52362"><tspan
+   style="font-size:10px"
+   id="tspan3090">V</tspan>SS</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3084"
+       y="859.52362"
+       x="151.875"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002"><tspan
+         y="859.52362"
+         x="151.875"
+         id="tspan3086"
+         sodipodi:role="line"><tspan
+   style="font-size:10px"
+   id="tspan3088">V</tspan>DD</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.8;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3094"
+       sodipodi:cx="160"
+       sodipodi:cy="584.09448"
+       sodipodi:rx="1"
+       sodipodi:ry="1"
+       d="m 161,584.09448 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <path
+       transform="translate(182.34413,308.16938)"
+       d="m 161,584.09448 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+       sodipodi:ry="1"
+       sodipodi:rx="1"
+       sodipodi:cy="584.09448"
+       sodipodi:cx="160"
+       id="path3096"
+       style="opacity:0.8;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="175.01437"
+       y="887.43457"
+       id="text3098"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002"><tspan
+         sodipodi:role="line"
+         id="tspan3100"
+         x="175.01437"
+         y="887.43457"
+         style="fill:#19aeff">0/1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3102"
+       y="873.43457"
+       x="367.01437"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\VIOBus.png"
+       inkscape:export-xdpi="61.150002"
+       inkscape:export-ydpi="61.150002"><tspan
+         style="fill:#19aeff"
+         y="873.43457"
+         x="367.01437"
+         id="tspan3104"
+         sodipodi:role="line">V<tspan
+   style="font-size:10px"
+   id="tspan3106">IOBus</tspan></tspan></text>
+  </g>
+</svg>
