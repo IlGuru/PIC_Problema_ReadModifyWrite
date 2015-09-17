@@ -6,7 +6,7 @@ Forse no, forse si tratta di un problema dovuto alla struttura circuitale di alc
 
 {|
 |-
-| <immagine id=14815 name='Digital-IO-Pin.png'>Digital-IO-Pin.png</immagine> || L'immagine mostra la versione semplificata di un generico pin digitale di I/O di un PIC ad 8 bit.
+| <immagine id=14815 name='Digital-IO-Pin.png'></immagine> || L'immagine mostra la versione semplificata di un generico pin digitale di I/O di un PIC ad 8 bit.
 
 Nell' immagine non compaiono i vari blocchi relativi ai registri TRISx di direzione dei dati, il MOS che implementa il pull-up programmabile ecc.
 
@@ -21,10 +21,10 @@ A proposito di PORTB ( ma il discorso è identico per PORTA ), il [http://ww1.mi
 Il datasheet non parla di singoli pin, ma di pins, ovvero dell' intera porta.
 {|
 |-
-| <immagine id=14816 name='DigitalPin-Read.png'>DigitalPin-Read.png</immagine> || 
+| <immagine id=14816 name='DigitalPin-Read.png'></immagine> || 
 Quando si tratta della lettura di un pin, viene letto ciascun pin della porta ed il valore copiato in un registro interno del PIC.
 |-
-| <immagine id=14817 name='DigitalPin-Write.png'>DigitalPin-Write.png</immagine> || Ma quando si tratta di modificare lo stato logico di un pin ad esempio RB0, in certe circostanze circuitali si cela un'insidia.
+| <immagine id=14817 name='DigitalPin-Write.png'></immagine> || Ma quando si tratta di modificare lo stato logico di un pin ad esempio RB0, in certe circostanze circuitali si cela un'insidia.
 Infatti il PIC prima legge lo stato logico nel pin, ne modifica il contenuto e poi memorizza il valore nel registro PORTB.
 |}
 
@@ -32,7 +32,7 @@ Infatti il PIC prima legge lo stato logico nel pin, ne modifica il contenuto e p
 Nei PIC con core base-line o mid-range, la lettura di un registro PORTx e quindi anche la lettura che viene fatta per la modifica, significa sempre leggere il livello logico dei pin. 
 {|
 |-
-| <immagine id=14826 name='VIOBus.png'>VIOBus.png</immagine> || 
+| <immagine id=14833 name='VIOBus.png'></immagine> || 
 Se il pin è collegato ad un componente passivo non ci sono problemi, ma se il pin è collegato ad un bus ( es. I2C ) o ad un altro dispositivo ( es. il gate di un FET ) che presentando delle capacità parassite rappresentano un carico di tipo capacitivo, la sistuazione si complica. 
 
 
