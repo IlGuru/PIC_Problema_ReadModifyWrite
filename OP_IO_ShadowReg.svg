@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="OP_IO_ShadowReg.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.1916953"
+     inkscape:cx="258.39456"
+     inkscape:cy="893.11808"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3153"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\OP_IO_ShadowReg.png"
+       inkscape:export-xdpi="59.88522"
+       inkscape:export-ydpi="59.88522">
+      <rect
+         y="52.362183"
+         x="420"
+         height="160"
+         width="55"
+         id="rect2987"
+         style="opacity:0.8;fill:#19aeff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         inkscape:tile-y0="57.362183"
+         inkscape:tile-x0="475"
+         inkscape:tile-h="10"
+         inkscape:tile-w="15"
+         inkscape:tile-cy="62.362183"
+         inkscape:tile-cx="482.5"
+         y="57.362183"
+         x="475"
+         height="10"
+         width="15"
+         id="rect2989"
+         style="opacity:0.80000000000000004;fill:#bdcdd4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <use
+         id="use3103"
+         xlink:href="#rect2989"
+         inkscape:tiled-clone-of="#rect2989"
+         y="0"
+         x="0" />
+      <use
+         id="use3105"
+         transform="translate(0,20)"
+         xlink:href="#rect2989"
+         inkscape:tiled-clone-of="#rect2989"
+         y="0"
+         x="0" />
+      <use
+         id="use3107"
+         transform="translate(0,40)"
+         xlink:href="#rect2989"
+         inkscape:tiled-clone-of="#rect2989"
+         y="0"
+         x="0" />
+      <use
+         id="use3109"
+         transform="translate(0,60)"
+         xlink:href="#rect2989"
+         inkscape:tiled-clone-of="#rect2989"
+         y="0"
+         x="0" />
+      <use
+         id="use3111"
+         transform="translate(0,80)"
+         xlink:href="#rect2989"
+         inkscape:tiled-clone-of="#rect2989"
+         y="0"
+         x="0" />
+      <use
+         id="use3113"
+         transform="translate(0,100)"
+         xlink:href="#rect2989"
+         inkscape:tiled-clone-of="#rect2989"
+         y="0"
+         x="0" />
+      <use
+         id="use3115"
+         transform="translate(0,120)"
+         xlink:href="#rect2989"
+         inkscape:tiled-clone-of="#rect2989"
+         y="0"
+         x="0" />
+      <use
+         id="use3117"
+         transform="translate(0,140)"
+         xlink:href="#rect2989"
+         inkscape:tiled-clone-of="#rect2989"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3119"
+         y="79.181412"
+         x="437.4993"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Arial Bold"
+           y="79.181412"
+           x="437.4993"
+           id="tspan3121"
+           sodipodi:role="line">P</tspan><tspan
+           style="font-size:24px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Arial Bold"
+           id="tspan3123"
+           y="109.18141"
+           x="437.4993"
+           sodipodi:role="line">O</tspan><tspan
+           style="font-size:24px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Arial Bold"
+           id="tspan3125"
+           y="139.18141"
+           x="437.4993"
+           sodipodi:role="line">R</tspan><tspan
+           style="font-size:24px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Arial Bold"
+           id="tspan3127"
+           y="169.18141"
+           x="437.4993"
+           sodipodi:role="line">T</tspan><tspan
+           style="font-size:24px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Arial Bold"
+           id="tspan3129"
+           y="199.18141"
+           x="437.4993"
+           sodipodi:role="line">B</tspan></text>
+    </g>
+    <g
+       id="g3171"
+       transform="translate(-22,22)"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\OP_IO_ShadowReg.png"
+       inkscape:export-xdpi="59.88522"
+       inkscape:export-ydpi="59.88522">
+      <rect
+         y="52.234337"
+         x="275.37479"
+         height="35.127846"
+         width="99.625214"
+         id="rect3131"
+         style="opacity:0.80000000000000004;fill:#ffff3e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3133"
+         y="75.181412"
+         x="290.08069"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           id="tspan3139"
+           y="75.181412"
+           x="290.08069"
+           sodipodi:role="line">g_LATB</tspan></text>
+    </g>
+    <path
+       style="fill:#ff4141;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 364,82.362183 5,10 -5,9.999997 35,0 0,5 10,-14.999997 -10,-15 0,5 z"
+       id="path3176"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\OP_IO_ShadowReg.png"
+       inkscape:export-xdpi="59.88522"
+       inkscape:export-ydpi="59.88522" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3193"
+       d="m 196,82.362183 5,10 -5,9.999997 35,0 0,5 10,-14.999997 -10,-15 0,5 z"
+       style="fill:#ff4141;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\OP_IO_ShadowReg.png"
+       inkscape:export-xdpi="59.88522"
+       inkscape:export-ydpi="59.88522" />
+    <path
+       style="fill:#9ade00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 410,192.36218 -5,-10 5,-10 -205,0 0,-5 -10,15 10,15 0,-5 z"
+       id="path3197"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\OP_IO_ShadowReg.png"
+       inkscape:export-xdpi="59.88522"
+       inkscape:export-ydpi="59.88522" />
+    <g
+       id="g3981"
+       transform="translate(6,0)"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\OP_IO_ShadowReg.png"
+       inkscape:export-xdpi="59.88522"
+       inkscape:export-ydpi="59.88522">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3199"
+         d="m 110,52.362183 10,5 0,149.999997 10,5 60,0 -10,-5 0,-149.999997 -10,-5 z"
+         style="fill:#bdcdd4;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3201"
+         d="m 120,207.36218 60,0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 1;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3203"
+         d="m 120,57.362183 60,0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 1;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3973"
+         y="101.30051"
+         x="138.54295"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="101.30051"
+           x="138.54295"
+           id="tspan3975"
+           sodipodi:role="line">P</tspan><tspan
+           id="tspan3977"
+           y="141.30051"
+           x="138.54295"
+           sodipodi:role="line">G</tspan><tspan
+           id="tspan3979"
+           y="181.30051"
+           x="138.54295"
+           sodipodi:role="line">M</tspan></text>
+    </g>
+    <path
+       style="fill:#ff4141;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 295,117.36218 10,5 10,-5 0,35 -110,0 0,5 -10,-15 10,-15 0,5 90,0 z"
+       id="path3990"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\OP_IO_ShadowReg.png"
+       inkscape:export-xdpi="59.88522"
+       inkscape:export-ydpi="59.88522" />
+  </g>
+</svg>

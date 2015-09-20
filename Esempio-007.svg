@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3341116"
-     inkscape:cx="356.66249"
-     inkscape:cy="471.81"
+     inkscape:zoom="1.2713241"
+     inkscape:cx="216.57572"
+     inkscape:cy="477.05272"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -472,18 +472,6 @@
        y="0"
        xlink:href="#use3819"
        id="use3837"
-       transform="translate(0,50)"
-       width="1052.3622"
-       height="744.09448"
-       style="fill:#ccff42;fill-opacity:1"
-       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\Esempio-007.png"
-       inkscape:export-xdpi="30.299999"
-       inkscape:export-ydpi="30.299999" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use3821"
-       id="use3839"
        transform="translate(0,50)"
        width="1052.3622"
        height="744.09448"
@@ -1190,21 +1178,6 @@
          id="tspan4040"
          sodipodi:role="line">0</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="292.28156"
-       y="530.83008"
-       id="text4042"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\Esempio-007.png"
-       inkscape:export-xdpi="30.299999"
-       inkscape:export-ydpi="30.299999"><tspan
-         sodipodi:role="line"
-         id="tspan4044"
-         x="292.28156"
-         y="530.83008"
-         style="fill:#ff0000;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Arial Bold">0</tspan></text>
-    <text
        sodipodi:linespacing="125%"
        id="text4046"
        y="640.83008"
@@ -1278,5 +1251,31 @@
          x="283.92133"
          y="713.14893"
          style="font-size:16px">VSS</tspan></text>
+    <rect
+       style="opacity:0.80000000000000004;fill:#dc0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3114"
+       width="35"
+       height="40"
+       x="280"
+       y="194.09448"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\Esempio-007.png"
+       inkscape:export-xdpi="30"
+       inkscape:export-ydpi="30" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="292.28156"
+       y="530.83008"
+       id="text4042"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="F:\Elettronica\PIC_Problema_ReadModifyWrite\Esempio-007.png"
+       inkscape:export-xdpi="30.299999"
+       inkscape:export-ydpi="30.299999"><tspan
+         sodipodi:role="line"
+         id="tspan4044"
+         x="292.28156"
+         y="530.83008"
+         style="fill:#ffffff;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Arial Bold">0</tspan></text>
   </g>
 </svg>
