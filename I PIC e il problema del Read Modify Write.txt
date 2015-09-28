@@ -1,6 +1,6 @@
 ==Abstract==
 Led che erano accesi che si spengono inspiegabilmente, comandi inviati ad un dispositivo che non fanno quello che devono, livelli di segnali che cambiano senza che il codice abbia detto di farlo ecc... Il PIC è posseduto? Serve un esorcista? 
-Forse no, forse si tratta di un problema dovuto alla struttura circuitale di alcune famiglie di PIC che implementano la logica RMF, quella che ci fa esclamere WTF!
+Forse no, forse si tratta di un problema dovuto alla struttura circuitale di alcune famiglie di PIC che implementano la logica RMW, quella che ci fa esclamere WTF!
 ==Struttura di un PIN generico==
 {|
 |-
